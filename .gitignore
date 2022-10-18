@@ -35,5 +35,6 @@ override.tf.json
 .idea
 # Configuracion de vsconde
 .vscode/*
-# Configuracopm de variables
+# Configuracopm de variables y lock
 terraform.tfvars
+.terraform.lock.hcl
