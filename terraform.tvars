@@ -1,3 +1,0 @@
-# terraform.tfvars
-# Aquí va la clave SSH pública
-ssh_key_path="ruta/fichero/id_rsa.pub"
